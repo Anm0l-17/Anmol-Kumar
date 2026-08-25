@@ -1,154 +1,109 @@
-# Anmol-Kumar
-# 👋 Anmol Kumar | Data Analyst & Full-Stack Developer
+# 👋 Hey, I'm Anmol Kumar
 
-**Computer Science Student** @ BMS College of Engineering, Bengaluru | **4th Semester** | CGPA: 8.0/10
+**CSE Undergraduate @ BMSCE | Data Analyst | Full-Stack Developer | AI/LLM Enthusiast**
 
-🎯 **Targeting:** Data Analyst & SDE roles for campus placements  
-📍 **Location:** Bengaluru, India  
-📧 **Email:** Anmolkumar.cs24@bmsce.ac.in  
-📱 **Phone:** +91-9717591250  
-
----
-
-## 🚀 About Me
-
-Detail-oriented Computer Science student with strong foundations in **data analysis, database management, and full-stack development**. Passionate about building scalable systems and transforming raw data into actionable insights. Proven ability to lead teams, ship real projects under tight deadlines, and communicate complex technical concepts clearly.
-
-**International athlete** (Taekwondo medalist, AIFF-affiliated footballer) with discipline and resilience that translates to problem-solving and project execution.
+```
+Passionate about building scalable solutions and exploring emerging technologies.
+Learning fast, shipping faster. 🚀
+```
 
 ---
 
-## 💻 Technical Stack
+## 🎓 About Me
 
-### Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8936?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-### Frontend & Mobile
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34C26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- 🏫 **Computer Science & Engineering** | BMS College of Engineering (BMSCE), Bengaluru
+- 📅 **Batch:** 2024-2028
+- 💼 **Target Roles:** Data Analyst | Software Development Engineer (SDE)
+- 🎯 **Focus:** Full-stack development, Data analysis, AI/LLM integration, Privacy-focused systems
+- 🎖️ **NCC Member** at BMSCE
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-### 🌍 [World Cup 2026 Interactive Analytics Dashboard](https://github.com/Anm0l-17/world-cup-2026-dashboard)
-**Tableau • Python • Data Collection & Visualization**
+### **India Knowledge Graph (IKG)**
+Full-stack platform for Indian news ingestion and event intelligence  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Interactive analytics dashboard tracking performance metrics for 16 national teams (~311 players). Currently collecting and cleaning season-long player statistics across goalkeeper, defender, midfielder, and attacker positions from multiple sources.
+### **CipherNode - P2P Messaging**
+Privacy-focused messaging app with Tor & Bluetooth integration  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Encryption](https://img.shields.io/badge/-Security-FF6B6B?style=flat-square)
 
-- 📊 Building scalable Tableau dashboards from raw data
-- 🔄 Implemented data collection pipeline using Python & web scraping
-- 📈 Handling EDA, data validation, and quality assurance for 300+ player records
-- *In Progress — Data collection phase completed for goalkeepers (37 profiles)*
+### **World Cup 2026 Analytics Dashboard**
+Tableau portfolio project tracking player performance across national teams  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Analytics](https://img.shields.io/badge/-Data%20Analytics-4285F4?style=flat-square)
 
----
-
-### 🔐 [CipherNode — Privacy-Focused P2P Messaging](https://github.com/Anm0l-17/CipherNode-Bluetooth)
-**React Native • Expo • Tor Onion Routing • Bluetooth • Java**
-
-Privacy-first, decentralized mobile messaging application forked from Signal. Local Bluetooth variant for offline communication; Tor-based variant for secure internet messaging.
-
-- 🛡️ End-to-end encryption with on-device AI features (smart reply, grammar correction)
-- 📱 Cross-platform mobile app (iOS/Android) using React Native & Expo
-- 🔗 Implemented Tor onion routing for anonymous messaging
-- 🎮 Bluetooth mesh networking for offline, local-only chat
-- 📦 Full Git workflow: branching, rebasing, conflict resolution
+### **Maze Orienteering**
+Interactive web-based maze solving and navigation simulator  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square)
 
 ---
 
-### 📊 [SQL 50 LeetCode Study Plan](https://github.com/Anm0l-17/sql-50-leetcode)
-**SQL • Database Design • Query Optimization**
+## 💻 Tech Stack
 
-Comprehensive solutions for LeetCode's SQL 50 study plan. Covers intermediate to advanced SQL concepts: joins, subqueries, window functions, and query optimization.
-
-- 🎯 50+ optimized SQL solutions with detailed explanations
-- 🔍 Query analysis and performance tuning techniques
-- 📚 Great resource for database fundamentals and interview prep
-
----
-
-### 📱 [MAD Project — Mobile Application Development](https://github.com/Anm0l-17/MAD-project)
-**React Native • JavaScript • Mobile UI/UX**
-
-Full-featured mobile application developed as a college minor project. Demonstrates end-to-end mobile app development from design to deployment.
-
-- 🎨 Clean, user-friendly mobile interface
-- ⚙️ Backend integration with data persistence
-- 🚀 Cross-platform compatibility (iOS/Android)
+**Languages:** Python | JavaScript | TypeScript | Java | SQL | C++  
+**Frontend:** React | HTML5 | CSS3 | Tailwind CSS  
+**Backend:** Node.js | Express | Flask | REST APIs  
+**Databases:** PostgreSQL | MongoDB | MySQL  
+**Tools & Platforms:** Git | Docker | Tableau | VS Code | Linux  
+**Specializations:** Data Analysis | LLM/AI Integration | Full-Stack Web Dev  
 
 ---
 
-## 🎓 Certifications & Coursework
+## 📊 Learning & Growth
 
-✅ **Infosys Power BI Training Certification** — Data visualization and BI fundamentals  
-✅ **Infosys Data Science Essentials** — Statistical analysis and data-driven decision making  
-✅ **Infosys Hands-On Data Visualization & BI** — Practical dashboard and visualization design  
-✅ **Coursework:** Operating Systems, Cryptography, Theory of Computation, Algorithm Design, Linear Algebra
-
----
-
-## 👥 Leadership & Impact
-
-🎯 **Social Impact Lead** — Food Donation Drive (2024)
-- Conceptualized and executed end-to-end campaign reaching 350+ individuals in need
-- Managed stakeholder coordination and on-ground logistics
-
-🎤 **Event Organizer** — National Cadet Corps (NCC) (2024 – Present)
-- Planned and executed high-profile campus events with meticulous coordination
-- Built confidence in public speaking and structured team environments
+- 🔥 **LeetCode:** Active problem solving | DSA mastery
+- 🤖 **AI/LLM:** Exploring local AI stacks, prompt engineering, RAG systems
+- 🏔️ **Beyond Code:** Himalayan trekking enthusiast | NCC activities
+- 📚 **Continuous Learning:** Fast learner, always exploring new technologies
 
 ---
 
-## 🏅 Achievements & Extracurriculars
+## 🎯 Current Goals
 
-🥋 **Taekwondo — International Medalist** | Represented at international level | Demonstrates discipline & resilience  
-⚽ **AIFF-Affiliated Football Wingback** | Wingback position | Active interest in sports analytics  
-🚴 **Adventure Racer & Long-Distance Cyclist** | Regular competitor in endurance events  
-🏆 **Community Citizenship Award** | Recognized for meaningful contribution to community welfare  
-
----
-
-## 📈 What I'm Currently Working On
-
-- 🌍 **World Cup 2026 Dashboard** — Collecting & visualizing player stats (Tableau + Python)
-- 📚 **Competitive Programming** — LeetCode (C++, SQL) & UnStop problems
-- 🔒 **CipherNode Development** — Adding AI-powered features (ML Kit, Gemma 2B)
-- 📊 **Data Analyst Portfolio** — Building data visualization & analytics projects
+- ✅ Master data structures and algorithms (LeetCode 50)
+- ✅ Build production-grade full-stack applications
+- ✅ Contribute to open-source projects
+- ✅ Land an internship in Data Analytics or SDE roles
+- ✅ Deep dive into AI/ML engineering
 
 ---
 
-## 📞 Let's Connect
+## 📫 Let's Connect
 
-- **Email:** Anmolkumar.cs24@bmsce.ac.in
-- **Instagram:** [@pirate.xanmol](https://www.instagram.com/pirate.xanmol/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anm0l-kumar/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Anm0l-17)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pirate.xanmol)
+
+📧 **Email:** [Your Email]  
+📍 **Location:** Bangalore / Greater Noida, India
+
+---
+
+## ⚡ Quick Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anm0l-17&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anm0l-17&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 💡 Fun Facts
 
-- 🎮 Competitive gamer with discipline from martial arts training
-- ⚡ Quick learner — pick up new tech stacks rapidly
-- 🎯 Goal-oriented with a track record of shipping projects under pressure
-- 🌍 Interested in AI, cryptography, and building things that matter
+- 🎮 Love solving complex problems both in code and on mountains
+- 🧠 Always debugging something, whether it's code or life decisions
+- 🌍 Passionate about building technology that respects privacy
+- ☕ Coffee-driven developer
 
 ---
 
-**Last Updated:** June 2026 | *Open to Data Analyst & SDE internship/placement opportunities*
+**"Stay curious, keep coding, ship it." 🚀**
+
+---
+
+*Last updated: August 2026 | Open to collaborations and opportunities*
