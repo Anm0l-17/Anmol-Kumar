@@ -25,11 +25,46 @@
 | | |
 |---|---|
 | 🎓 **Studying** | B.E. Computer Science & Engineering @ **BMS College of Engineering**, Bengaluru (2024 – 2028) |
-| 🔨 **Building** | AI-powered news intelligence, privacy-first messaging, and agri-tech tools |
+| 🔨 **Building** | NEUROBRAIN (cited, deletable AI memory), TraceWeave (security log analysis), IKG |
 | 📊 **Analyzing** | Sports data with Tableau (World Cup 2026 dashboard) |
 | 🧠 **Exploring** | LLMs, RAG systems, local AI stacks, prompt engineering |
 | 💪 **Practising** | Data structures & algorithms on LeetCode |
 | 🎖️ **Also** | NCC cadet · Himalayan trekking enthusiast 🏔️ |
+
+---
+
+## 🔥 Now Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [NEUROBRAIN](https://github.com/Anm0l-17/NEUROBRAIN)
+*Your notes. Evidence you can trace. Memory you control.*
+
+A local research prototype that turns selected notes into **searchable, cited memory with verifiable deletion**: hybrid lexical and semantic search, exact-excerpt citations, and a confirm-then-receipt "forget" flow.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite%20FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Privacy](https://img.shields.io/badge/-Privacy--first-FF6B6B?style=flat-square)
+![Research](https://img.shields.io/badge/-Research%20Prototype-8A2BE2?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ [TraceWeave](https://github.com/Anm0l-17/TraceWeave)
+*(fork of [Z3R0x7/TraceWeave](https://github.com/Z3R0x7/TraceWeave))*
+
+A **security log analysis engine** that produces evidence-linked investigations: rule detections, cross-file correlation, ATT&CK mapping, and AI-reviewed hypotheses that never overwrite rule findings.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Security](https://img.shields.io/badge/-Blue%20Team-0A66C2?style=flat-square)
+![LLM](https://img.shields.io/badge/-LLM-8A2BE2?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,11 +75,9 @@
 <td width="50%" valign="top">
 
 ### 🇮🇳 [Project IKG: India Knowledge Graph](https://github.com/Anm0l-17/Project-IKG)
-An **AI-powered event intelligence platform** that turns the daily Indian news cycle into a connected knowledge network.
+An **AI-powered event intelligence platform** that turns daily news into an interconnected knowledge network.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AI](https://img.shields.io/badge/-LLM-8A2BE2?style=flat-square)
 
 </td>
@@ -55,7 +88,6 @@ Privacy-focused peer-to-peer messenger with **Tor and Bluetooth** transport. Bui
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Tor](https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
-![Security](https://img.shields.io/badge/-Encryption-FF6B6B?style=flat-square)
 
 </td>
 </tr>
@@ -66,41 +98,22 @@ Privacy-focused peer-to-peer messenger with **Tor and Bluetooth** transport. Bui
 **Hackathon build (IIT Indore × HAL):** a digital twin of a turbojet engine.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Digital Twin](https://img.shields.io/badge/-Digital%20Twin-0A66C2?style=flat-square)
 ![Hackathon](https://img.shields.io/badge/-Hackathon-F59E0B?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌾 [FarmSense](https://github.com/Anm0l-17/FarmSense)
-Hackathon submission for **Synaptrix**: a smart-farming web app.
+Hackathon submission for **Synaptrix**.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/-Hackathon-F59E0B?style=flat-square)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ World Cup 2026 Analytics Dashboard
-**Tableau portfolio project** tracking player performance across national teams.
-
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Analytics](https://img.shields.io/badge/-Data%20Analytics-4285F4?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 Maze Orienteering
-Interactive web-based **maze-solving and navigation simulator**.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square)
-
-</td>
-</tr>
 </table>
+
+**Also:** ⚽ World Cup 2026 Analytics Dashboard (Tableau) · 🧭 Maze Orienteering (JavaScript/WebGL) · 🧩 [leethub](https://github.com/Anm0l-17/leethub) (LeetCode solutions)
 
 ---
 
