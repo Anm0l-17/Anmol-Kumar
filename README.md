@@ -25,7 +25,7 @@
 | | |
 |---|---|
 | 🎓 **Studying** | B.E. Computer Science & Engineering @ **BMS College of Engineering**, Bengaluru (2024 – 2028) |
-| 🔨 **Building** | NEUROBRAIN (cited, deletable AI memory), TraceWeave (security log analysis), IKG |
+| 🔨 **Building** | NEUROBRAIN (cited, deletable AI memory), IKG (prototype), hackathon projects |
 | 📊 **Analyzing** | Sports data with Tableau (World Cup 2026 dashboard) |
 | 🧠 **Exploring** | LLMs, RAG systems, local AI stacks, prompt engineering |
 | 💪 **Practising** | Data structures & algorithms on LeetCode |
@@ -53,12 +53,13 @@ A local research prototype that turns selected notes into **searchable, cited me
 <td width="50%" valign="top">
 
 ### 🕸️ [TraceWeave](https://github.com/Anm0l-17/TraceWeave)
-*(fork of [Z3R0x7/TraceWeave](https://github.com/Z3R0x7/TraceWeave))*
+*Hackathon project for **Mitigata** · team repo: [Z3R0x7/TraceWeave](https://github.com/Z3R0x7/TraceWeave)*
 
 A **security log analysis engine** that produces evidence-linked investigations: rule detections, cross-file correlation, ATT&CK mapping, and AI-reviewed hypotheses that never overwrite rule findings.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hackathon](https://img.shields.io/badge/-Hackathon-F59E0B?style=flat-square)
 ![Security](https://img.shields.io/badge/-Blue%20Team-0A66C2?style=flat-square)
 ![LLM](https://img.shields.io/badge/-LLM-8A2BE2?style=flat-square)
 
@@ -75,10 +76,11 @@ A **security log analysis engine** that produces evidence-linked investigations:
 <td width="50%" valign="top">
 
 ### 🇮🇳 [Project IKG: India Knowledge Graph](https://github.com/Anm0l-17/Project-IKG)
-An **AI-powered event intelligence platform** that turns daily news into an interconnected knowledge network.
+An **AI-powered event intelligence platform** that turns daily news into an interconnected knowledge network. *Prototype stage.*
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/-LLM-8A2BE2?style=flat-square)
+![Stage](https://img.shields.io/badge/-Prototype-blueviolet?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +178,7 @@ Hackathon submission for **Synaptrix**.
 
 ## 🧭 Roadmap
 
-- [x] Ship hackathon builds (IIT Indore × HAL, Synaptrix)
+- [x] Ship hackathon builds (IIT Indore × HAL, Synaptrix, Mitigata)
 - [x] Publish a data-analytics portfolio piece in Tableau
 - [ ] Master DSA, with LeetCode as the daily driver
 - [ ] Build production-grade full-stack applications
